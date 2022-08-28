@@ -1,0 +1,64 @@
+{
+	"id": "753ae43f-9f0e-41db-b531-830a2d466f44",
+	"name": "S92064060",
+	"timestamp": "2022-05-28T09:38:12.594Z",
+	"collection_id": "21064853-adddd60a-4d3c-4123-ac36-46413f2914b9",
+	"folder_id": 0,
+	"environment_id": "21064853-bdc59a89-cb77-49da-9f95-54b364cfa342",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "1110ef96-7fa4-42b9-b552-aea8a1bbe8f3",
+			"name": "GET User",
+			"time": 88,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				103,
+				88
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "a077a67d-b216-409f-8a30-c4487ce4b583",
+			"name": "login",
+			"time": 96,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				286,
+				96
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		}
+	],
+	"count": 2,
+	"totalTime": 573,
+	"collection": {
+		"requests": [
+			{
+				"id": "1110ef96-7fa4-42b9-b552-aea8a1bbe8f3",
+				"method": "GET"
+			},
+			{
+				"id": "a077a67d-b216-409f-8a30-c4487ce4b583",
+				"method": "GET"
+			}
+		]
+	}
+}

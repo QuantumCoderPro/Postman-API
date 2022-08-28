@@ -1,0 +1,12 @@
+[
+  {
+    "endpoint": "api/login",
+    "email": "eve.holt@reqres.in",
+    "password": 123
+  },
+  {
+    "endpoint": "api/login",
+    "email": "s92064060@ousl.lk",
+    "password": 567
+  }
+]
